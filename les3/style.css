@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(127, 249, 255);
+    display: flex;
+    justify-content: center;
+  }
+  
+  .bird  {
+   left: 50px
+  }
+ 
